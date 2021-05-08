@@ -18,8 +18,8 @@ The users need to import package gym to run the algorithm.
 
 # Performance:
 
-Before Trainining: [Click Here] (https://youtu.be/j1jusWqi4eA) 
+Before Trainining: [here] (https://youtu.be/j1jusWqi4eA/) 
 
-After Training: [Click Here] (https://www.youtube.com/watch?v=q24c_dQowF0) 
+After Training: [Click Here] (https://www.youtube.com/watch?v=q24c_dQowF0/) 
 
 

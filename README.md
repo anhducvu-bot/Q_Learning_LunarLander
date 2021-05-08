@@ -20,6 +20,6 @@ The users need to import package gym to run the algorithm.
 
 Before Trainining: [Click Here](https://youtu.be/j1jusWqi4eA/)
 
-After Training: [Click Here] (https://www.youtube.com/watch?v=q24c_dQowF0/) 
+After Training: [Click Here](https://www.youtube.com/watch?v=q24c_dQowF0/)
 
 

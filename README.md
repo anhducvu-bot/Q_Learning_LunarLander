@@ -18,6 +18,8 @@ The users need to import package gym to run the algorithm.
 
 # Performance:
 
+The training took approximately 4 hours.
+
 Before Trainining: [Click Here](https://youtu.be/j1jusWqi4eA/)
 
 After Training: [Click Here](https://www.youtube.com/watch?v=q24c_dQowF0/)

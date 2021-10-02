@@ -14,11 +14,9 @@ The agent is a DQN agent that use cyclical learning rate.
 
 # How? 
 
-The users need to import package gym to run the algorithm. 
+The model implemented is a vanilla DQN model with cyclical learning rate.  
 
 # Performance:
-
-The training took approximately 4 hours.
 
 Before Trainining: [Click Here](https://youtu.be/j1jusWqi4eA/)
 
